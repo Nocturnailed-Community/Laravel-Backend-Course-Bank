@@ -1,4 +1,4 @@
-# Kurikulum Laravel Backend dengan Repository Service Pattern
+# Kurikulum Laravel Backend
 
 ## Modul 1: Dasar-dasar Laravel
 - Pengenalan Laravel dan PHP modern
